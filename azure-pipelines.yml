@@ -24,7 +24,7 @@ steps:
 
 - task: CopyFiles@2
   inputs:
-    SourceFolder: '$(System.DefaultWorkingDirectory)/AzureDevOps-CI/bin'
+    SourceFolder: '$(System.DefaultWorkingDirectory)/CodeCoverage/bin'
     Contents: '**'
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
