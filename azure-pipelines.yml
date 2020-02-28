@@ -26,7 +26,7 @@ steps:
   displayName: 'Run unit tests'
   inputs:
     command: 'test'
-    arguments: '--no-build --configuration /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura /p:CoverletOutput=$(Build.SourcesDirectory)/TestResults/Coverage/'
+    arguments: '--no-build --configuration Debug /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura /p:CoverletOutput=$(Build.SourcesDirectory)/TestResults/Coverage/'
     publishTestResults: true
     projects: '**/*Tests.csproj'
 
