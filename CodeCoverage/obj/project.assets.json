@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj",
+      "projectUniqueName": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj",
       "projectName": "CodeCoverage",
-      "projectPath": "C:\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj",
+      "projectPath": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj",
       "packagesPath": "C:\\Users\\TeknoTarashe\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeCoverage\\CodeCoverage\\obj\\",
+      "outputPath": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TeknoTarashe\\AppData\\Roaming\\NuGet\\NuGet.Config",

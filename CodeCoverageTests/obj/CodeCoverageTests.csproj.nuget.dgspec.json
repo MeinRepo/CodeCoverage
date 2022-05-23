@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj": {}
+    "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj": {}
   },
   "projects": {
-    "C:\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj": {
+    "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj",
+        "projectUniqueName": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj",
         "projectName": "CodeCoverageTests",
-        "projectPath": "C:\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj",
+        "projectPath": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj",
         "packagesPath": "C:\\Users\\TeknoTarashe\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeCoverage\\CodeCoverageTests\\obj\\",
+        "outputPath": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverageTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TeknoTarashe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj": {
-                "projectPath": "C:\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj"
+              "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj": {
+                "projectPath": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj": {
+    "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj",
+        "projectUniqueName": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj",
         "projectName": "CodeCoverage",
-        "projectPath": "C:\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj",
+        "projectPath": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverage\\CodeCoverage.csproj",
         "packagesPath": "C:\\Users\\TeknoTarashe\\.nuget\\packages\\",
-        "outputPath": "C:\\CodeCoverage\\CodeCoverage\\obj\\",
+        "outputPath": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TeknoTarashe\\AppData\\Roaming\\NuGet\\NuGet.Config",

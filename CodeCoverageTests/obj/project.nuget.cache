@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hloIagfe0Rde6UPHYEeE304EMJEOi0hz6DPiqoHREYTvYXzJz8+w61ANDwCXgESwoSrpoeK5g2De3A3lhRghdA==",
+  "dgSpecHash": "gTd5/DCjILnl3kyDFf1zAKoD/8MjGOtmxDorER2a8O+s4hrk1oXvqAkY1idszfNzzblOSHeegk9bigqUfYpzkA==",
   "success": true,
-  "projectFilePath": "C:\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj",
+  "projectFilePath": "C:\\Users\\TeknoTarashe\\Desktop\\,,,\\SAMP\\CH02\\02_04\\CodeCoverage\\CodeCoverageTests\\CodeCoverageTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TeknoTarashe\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
     "C:\\Users\\TeknoTarashe\\.nuget\\packages\\coverlet.msbuild\\2.8.0\\coverlet.msbuild.2.8.0.nupkg.sha512",

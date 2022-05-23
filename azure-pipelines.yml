@@ -38,15 +38,25 @@ steps:
   inputs:
      command: 'custom'
      custom: tool
-     arguments: 'install --dotnet-reportegenerator-globaltool'
+     arguments: 'install --global dotnet-reportegenerator-globaltool'
 
 - task: DotNetCoreCLI@2
   displayName: 'Run Unit Test'
   inputs:
      command: 'test'
      custom: tool
-     arguments: '--no-build --configuration /p: '
+     arguments: '--no-build --configuration Debug /p:CollectCoverage=true/p:CoverletOutputFormat-Cobertura /p:CoverletOutput=$(Build.SourcesDirectory)TestResults/Coverage/'
+     publishTestResults: true
+     projects: '**/*Tests.csproj'
 
+- script: 
+    reportgenrator -reports:$(Build.SourceDirectory)/**/coverage.cobertura.xml  -targertdir:$(Build.SourceDirectory)/CodeCoverage -reporterttype:Htmlinline_Azurepiplines
+
+- task: PublishCodeCoverageResults@1
+  displayName: 'Publish Code Coverage Result'
+  inputs:
+    codeCoverageTool: 'Cobertura'
+    summaryFileLocation: '$(Build.SourcesDirectory)/**/coverage.cobertura.xml'
 
 - script: echo All done
   displayName: 'All done'
